@@ -115,7 +115,6 @@ This repository includes the following files:
 
 2. **`Group_F_Code.ipynb`** The Python source code (Jupyter Notebook) compatible with Google Colab. It contains the executable scripts for Genetic Algorithms, Fuzzy Logic simulation, and Titanic ML models.
 
-3. **`Group_F_Genetic_Algorithm.xlsx`** An Excel file demonstrating the step-by-step manual calculation logic for the Genetic Algorithm (Generation 1 & 2) with formulas.
 
 ---
 
