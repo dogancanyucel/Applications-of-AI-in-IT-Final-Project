@@ -12,9 +12,9 @@ Final project covering Genetic Algorithms, Fuzzy Logic, and Machine Learning alg
 ## 👥 Group Members
 | Name | Student ID |
 | :--- | :--- |
-| **Dogancan Yucel** | 104009 |
-| **Murat Emre Bulduk** | 103536 |
-| **Denizhan Demirhan Yilmaz** | 105375 |
+| **Dogancan Yucel** | 10**** |
+| **Murat Emre Bulduk** | 103*** |
+| **Denizhan Demirhan Yilmaz** | 105*** |
 
 ---
 
