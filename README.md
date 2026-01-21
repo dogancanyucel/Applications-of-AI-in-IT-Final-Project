@@ -1,5 +1,63 @@
 # Applications-of-AI-in-IT-Final-Project
 Final project covering Genetic Algorithms, Fuzzy Logic, and Machine Learning algorithms (Titanic).
+
+
+four parts = four topics = four tasks to-do:
+
+1) DT = Decision Trees
+
+2) NBC = Naive Bayes Classifier
+
+3) GA = Genetic Algorithms
+
+4) FL = Fuzzy Logic (fuzzy controler)
+
+    please upload the code and the presentation of all four parts - in one report
+    one submission per group (chosen above)
+    include your names on title page
+     
+    on our last meeting / or earlier - show me the results personally
+     
+    for 3.0-3.5:
+        DT - a classification problem found e.g. on kaggle
+              - similar to the ones I've shown during classes (fruits, iris, titanic)
+              - sth like cancer, diabetes, etc.
+            understand the problem
+            perform EDA - exploratory data analysis (like I did in Excel for titanic data)
+            build a decision tree (and analyse the results)
+        GA - backsack problem - for your dataset (see below)
+            analyse at least 2 generations - in Excel
+        NBC - "subscribers" example
+            just do it in Excel
+             
+    for 4.0-4.5:
+        the above plus...
+        ...fuzzy controller - for your dataset (see below)
+            describe the problem - using "human" language
+            design the fuzzy sets - define memebership functions for inputs and outputs
+            design the fuzzy rules
+            check how it works - for at least two sample sets of input values
+             
+    for 5.0:
+        the above plus...
+        ...the backsack problem - implemented (in python) - demonstrated (for sample data) in your presentation
+        ...and fuzzy controller - implemented (in python) and demonstrated
+        ...and NBC - for your own data
+            calculated "manually" - as I did for subscribers
+            or implemented in python
+             
+    how to choose your datasets?
+    (for backsack problem and fuzzy controller)
+     
+        sum up all students' album numbers in your group
+        dataset nr for backsack problem = 1 + sum mod 15
+        dataset nr for fuzzy controller = 1 + sum mod 29
+        include the calculations in your presentation
+
+
+
+
+
 # Applications of Artificial Intelligence in IT - Final Project
 
 **Group Name:** F  
