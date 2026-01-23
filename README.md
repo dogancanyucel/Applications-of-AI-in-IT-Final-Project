@@ -71,8 +71,8 @@ four parts = four topics = four tasks to-do:
 | Name | Student ID |
 | :--- | :--- |
 | **Dogancan Yucel** | 10**** |
-| **Murat Emre Bulduk** | 103*** |
-| **Denizhan Demirhan Yilmaz** | 105*** |
+| **MEB** | 103*** |
+| **DDY** | 105*** |
 
 ---
 
