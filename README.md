@@ -72,7 +72,7 @@ four parts = four topics = four tasks to-do:
 | :--- | :--- |
 | **Dogancan Yucel** | 10**** |
 | **MEB** | 103*** |
-| **DDY** | 105*** |
+| **DD** | 105*** |
 
 ---
 
